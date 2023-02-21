@@ -4,6 +4,7 @@ from tkinter import *
 import random
 import string
 
+#pip import pyperlick
 
 # initialize window
 
