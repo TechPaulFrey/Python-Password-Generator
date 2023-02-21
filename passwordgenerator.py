@@ -4,7 +4,7 @@ from tkinter import *
 import random
 import string
 
-#pip import pyperlick
+#pip import pyperclick
 
 # initialize window
 
